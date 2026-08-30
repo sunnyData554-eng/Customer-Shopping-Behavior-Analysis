@@ -25,7 +25,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
-   ```
+```bash
+   github clone https://github.com/sunnyData554-eng/Customer-Shopping-Behavior-Analysis 
+   cd Customer-Shopping-Behavior-Analysis
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
